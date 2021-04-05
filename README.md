@@ -41,10 +41,9 @@ Some implementations/functionalities of the project includes:
 Further details can be found in this **_[github repo.](https://github.com/samuelleeplus/onlineStore)_**
 
 ![](https://github.com/samuelleeplus/onlineStore/blob/30d26b2517f6619cb12c05a1d4064e0bf6d821aa/sample/sampleImage.jpg)
+
 ---
-
 ### Android App Development
-
 ---
 
 Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanaltay-590854a) to **develop native android mobile application.** This project was initially _inspired by [Yelp](https://www.yelp.com/),_ but **specifically focused on the region of East/SouthEast Asia,** matching users with restaurants according to their dietary preferences ( vegan, vegetarian, halal, kosher ). 

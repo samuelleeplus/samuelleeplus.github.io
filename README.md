@@ -24,7 +24,17 @@ In summer of 2018, I worked as an **intern to design E-Sports gaming environment
 ---
 ### Online Store 
 ---
-As part of Software Engineering course, we developed a **full-stack web application** using **.NET CORE** framework, that presents limited products in different categories allowing for normal customers to purchase. A user management system was also implemented where product and sales manager may control/update inventory. Further details can be found in this [github repo.](https://github.com/samuelleeplus/onlineStore)
+As part of Software Engineering course, we developed a **full-stack web application** using **.NET CORE** framework, that presents limited products in different categories allowing for normal customers to purchase.
+
+Some implementations/functionalities of the project includes: 
+
+- A user management system (Product Manager, Sales Manager, Admin) & Control/update of inventory
+- Login/Registration
+- Cart, Item Purchase
+- Profile Page with account information (Address, Credit Card, Previous purchases etc...)
+- PDF Invoice Email system (sent to user upon purchase)
+
+Further details can be found in this **_[github repo.](https://github.com/samuelleeplus/onlineStore)_**
 
 ![](https://github.com/samuelleeplus/onlineStore/blob/30d26b2517f6619cb12c05a1d4064e0bf6d821aa/sample/sampleImage.jpg)
 ---
@@ -33,7 +43,19 @@ As part of Software Engineering course, we developed a **full-stack web applicat
 
 ---
 
-Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanaltay-590854a) to **develop native android mobile application.** The purpose of the application was inspired by [Yelp](https://www.yelp.com/), but focused on the region of East/SouthEast Asia, matching users with restaurants according to their dietary preferensprince ( vegan, vegetarian, halal, kosher ). This was a full-stack project, developed using **RESTful Web Services** using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. **_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApp)._**
+Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanaltay-590854a) to **develop native android mobile application.** This project was initially _inspired by [Yelp](https://www.yelp.com/),_ but **specifically focused on the region of East/SouthEast Asia,** matching users with restaurants according to their dietary preferences ( vegan, vegetarian, halal, kosher ). 
+
+Basic functionalities of the application includes:
+- Login/Registration
+- Search/List of Restaurants
+- Restaurant Information (Payment, delivery, reviews, posts/comments etc...) 
+- Menu selection/Order
+- Reservation System
+
+
+This was a **full-stack project**, developed using RESTful Web Services using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. 
+
+**_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApp)._**
 
 ---
 ### Cryptography - Ciphers & Blockchain

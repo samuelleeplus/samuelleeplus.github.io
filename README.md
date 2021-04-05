@@ -24,8 +24,11 @@ As part of Software Engineering course, we developed a **full-stack web applicat
 ---
 
 ### Android App Development
+
 ---
+
 Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanaltay-590854a) to **develop native android mobile application.** The purpose of the application was inspired by [Yelp](https://www.yelp.com/), but focused on the region of East/SouthEast Asia, matching users with restaurants according to their dietary preferensprince ( vegan, vegetarian, halal, kosher ). This was a full-stack project, developed using **RESTful Web Services** using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. **_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApp)._**
+
 ---
 
 ### Cryptography - Ciphers & Blockchain

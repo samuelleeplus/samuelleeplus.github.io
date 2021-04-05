@@ -20,7 +20,7 @@ In summer of 2018, I worked as an intern to design E-Sports gaming environment a
 ***
 As part of Software Engineering course, we developed a **full-stack web application** using **.NET CORE** framework, that presents limited products in different categories allowing for normal customers to purchase. A user management system was also implemented where product and sales manager may control/update inventory. Further details can be found in this [github repo.](https://github.com/samuelleeplus/onlineStore)
 
-![](https://github.com/samuelleeplus/onlineStore/blob/5ae2cc7429e2cb9cac0041855742bdeac4bb8465/sample/sampleImage.jpg)
+![](https://github.com/samuelleeplus/onlineStore/blob/30d26b2517f6619cb12c05a1d4064e0bf6d821aa/sample/sampleImage.jpg)
 
 ### Android App Development
 ---

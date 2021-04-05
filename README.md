@@ -1,23 +1,29 @@
 # Work Experience
 
+---
 ### Research Intern - Algorithmics, TU Delft
-***
+---
 During summer of 2020, I worked as a **research intern** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
 
 We developed **Apprenticeship Learning approach to Vehicle Routing Problem (VRP) with realistic constraints.** Simulation was done with Google's open source [OR-Tool VRP library](https://developers.google.com/optimization/routing). _Project details will be sent on request._
 
+---
 ### Undergraduate Researcher - Nanotech & Research Application
-***
+---
 In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](http://myweb.sabanciuniv.edu/slucas/) to develop **computational strategies for assembly of heterozygous DNA sequence data, using HPC Cluster, SSH, SLURM commands, R & Python.** Some of the work can be found in my _[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._ 
 
+---
 ### Intern, [Golflex](https://parkgolflex1.imweb.me/)
-***
+---
 In summer of 2018, I worked as an **intern to design E-Sports gaming environment and map using the company's game engine (which is being used currently!**). I also was part of the graphic design team to **create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max.** 
 
-# Software Projects
+---
 
+
+# Software Projects
+---
 ### Online Store 
-***
+---
 As part of Software Engineering course, we developed a **full-stack web application** using **.NET CORE** framework, that presents limited products in different categories allowing for normal customers to purchase. A user management system was also implemented where product and sales manager may control/update inventory. Further details can be found in this [github repo.](https://github.com/samuelleeplus/onlineStore)
 
 ![](https://github.com/samuelleeplus/onlineStore/blob/30d26b2517f6619cb12c05a1d4064e0bf6d821aa/sample/sampleImage.jpg)

@@ -30,7 +30,7 @@ Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanalta
 ---
 For other projects involvement, feel free to check out my **_[github repository page!](https://github.com/samuelleeplus?tab=repositories)_**
 
-**Topics include** 
+**Topics include:** 
 - **cryptography**
 - **Bioinformatics/computational biology**
 - **Machine Learning/Deep Learning**

@@ -30,7 +30,6 @@ As part of Software Engineering course, we developed a **full-stack web applicat
 Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanaltay-590854a) to **develop native android mobile application.** The purpose of the application was inspired by [Yelp](https://www.yelp.com/), but focused on the region of East/SouthEast Asia, matching users with restaurants according to their dietary preferensprince ( vegan, vegetarian, halal, kosher ). This was a full-stack project, developed using **RESTful Web Services** using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. **_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApp)._**
 
 ---
-
 ### Cryptography - Ciphers & Blockchain
 ---
 During fall of 2019, I took a course on Cryptography, familiarizing with concepts like:
@@ -57,6 +56,29 @@ Topics covered in this course includes :
 **_Source code for above can be found in [this repo.](https://github.com/samuelleeplus/bioinformatics)_**
 
 ---
+### Computational Biology 
+---
+I was part of a group that characterized **Toll Like Receptor (TLR) 4 Protein Family.** 
+
+Some key contributions include: 
+- TLR4 proteins were chosen from 15 different species 
+- translated & aligned using both ClustalW & MUSCLE Multiple Sequence Alignment Algorithms (using MegaX Software)
+- Phylogeny trees were made to determine its evolutionary tree.
+- Python script to analyze & find conserved regions
+- R-programming language script for visualization. 
+
+**_Details for the following can be found in [this repo.](https://github.com/samuelleeplus/ens210-ComputationalBiology/tree/master/TLR4%20Protein%20Project)_**
+
+---
+### Ottoman Network Project
+---
+Under the supervision of [Yucel Saygin](http://sentilab.sabanciuniv.edu/people/), we developed an interactice web interface administration panel that performs basic CRUD operations, selections and search functionalities, **based on the Ottoman Social Network.**
+
+We used **HTML & CSS for web user-interface, and PHP for backend database calls.**
+
+**_Details for this project will be send upon request._**
+
+
 ### Other Projects
 ---
 For other projects involvement, feel free to check out my **_[github repository page!](https://github.com/samuelleeplus?tab=repositories)_**
@@ -64,8 +86,6 @@ For other projects involvement, feel free to check out my **_[github repository 
 _*If not found, they are most likely private, and may be sent upon request!_
 
 **Topics include:** 
-- **Computational biology**
-- **Ottoman Network Project - Database Systems**
 - **Machine Learning/Deep Learning**
-- **Operating Systems.**
+- **Operating Systems - Multithreading, Semaphores & Mutexes, Memory Management API & more**
 

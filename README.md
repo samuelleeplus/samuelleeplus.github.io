@@ -28,5 +28,9 @@ Working with Professor [Altug Tanaltay](https://tr.linkedin.com/in/altug-tanalta
 
 ### Other Projects
 ---
-For other projects involvement, feel free to check out my **_[github repository page!](https://github.com/samuelleeplus?tab=repositories)_ Topics include cryptography, bioinformatics/computational biology, Machine Learning/Deep Learning & Operating Systems.**
+For other projects involvement, feel free to check out my **_[github repository page!](https://github.com/samuelleeplus?tab=repositories)_ Topics include 
+- **cryptography**
+- **Bioinformatics/computational biology**
+- **Machine Learning/Deep Learning**
+- **Operating Systems.**
 

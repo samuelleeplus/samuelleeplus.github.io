@@ -5,17 +5,21 @@
 ---
 During summer of 2020, I worked as a **research intern** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
 
-We developed **Apprenticeship Learning approach to Vehicle Routing Problem (VRP) with realistic constraints.** Simulation was done with Google's open source [OR-Tool VRP library](https://developers.google.com/optimization/routing). _Project details will be sent on request._
+We developed _Apprenticeship Learning approach to Vehicle Routing Problem (VRP) with realistic constraints._ Simulation was done with Google's open source [OR-Tool VRP library](https://developers.google.com/optimization/routing). 
+
+**_Project details can be sent on request._**
 
 ---
 ### Undergraduate Researcher - Nanotech & Research Application
 ---
-In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](http://myweb.sabanciuniv.edu/slucas/) to develop **computational strategies for assembly of heterozygous DNA sequence data, using HPC Cluster, SSH, SLURM commands, R & Python.** Some of the work can be found in my _[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._ 
+In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](http://myweb.sabanciuniv.edu/slucas/) to develop _computational strategies for assembly of heterozygous DNA sequence data_, using HPC Cluster, SSH, SLURM commands, R & Python. 
+
+Some of the work can be found in my **_[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._**
 
 ---
 ### Intern, [Golflex](https://parkgolflex1.imweb.me/)
 ---
-In summer of 2018, I worked as an **intern to design E-Sports gaming environment and map using the company's game engine (which is being used currently!**). I also was part of the graphic design team to **create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max.** 
+In summer of 2018, I worked as an **intern** to _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._
 
 ---
 

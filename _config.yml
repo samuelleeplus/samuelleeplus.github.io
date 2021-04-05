@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Samuel Lee
-description: Born in South Korea, lived in Saudi Arabia, UAE, Turkey & USA. Studying Computer Science. Previously in Special Forces. Golfer. Guitarist.
+description: Born in South Korea, lived in Saudi Arabia, UAE, Turkey & USA. Studying Computer Science. Previously in Special Forces. Golfer. Guitarist. 
+avatar: "/profile.jpg"

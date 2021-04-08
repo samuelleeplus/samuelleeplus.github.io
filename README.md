@@ -58,7 +58,7 @@ Basic functionalities of the application includes:
 
 This was a **full-stack project**, developed using RESTful Web Services using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. 
 
-**_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApp)._**
+**_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApplication)._**
 
 ---
 ### Cryptography - Ciphers & Blockchain

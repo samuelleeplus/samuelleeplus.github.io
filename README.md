@@ -60,7 +60,8 @@ This was a **full-stack project**, developed using RESTful Web Services using **
 
 **_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApplication)._**
 
-<img src= "https://github.com/samuelleeplus/androidApp/blob/a054749716e9952ee0632d76444c6404c9e6af94/pictures/recyclerView.png" width= "300" height= "600" >
+
+![](https://github.com/samuelleeplus/androidApp/blob/a054749716e9952ee0632d76444c6404c9e6af94/pictures/recyclerView.png)
 
 ---
 ### Cryptography - Ciphers & Blockchain

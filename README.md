@@ -106,7 +106,7 @@ Some key contributions include:
 ---
 ### Ottoman Network Project
 ---
-Under the supervision of [Yucel Saygin](http://sentilab.sabanciuniv.edu/people/), we developed an interactice web interface administration panel that performs basic CRUD operations, selections and search functionalities, **based on the Ottoman Social Network.**
+Under the supervision of [Yucel Saygin](http://sentilab.sabanciuniv.edu/people/), we developed an interactive web interface administration panel that performs basic CRUD operations, selections and search functionalities, **based on the Ottoman Social Network.**
 
 We used **HTML & CSS for web user-interface, and PHP for backend database calls.**
 

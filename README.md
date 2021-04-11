@@ -17,7 +17,7 @@ In 2019, I worked as a **undergraduate researcher** with a team under the superv
 Some of the work can be found in my **_[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._**
 
 ---
-### Intern, [Golflex](https://parkgolflex1.imweb.me/)
+### Software Intern, [Golflex](https://parkgolflex1.imweb.me/)
 ---
 In summer of 2018, I worked as an **intern** to _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._
 

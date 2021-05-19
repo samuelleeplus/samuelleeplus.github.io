@@ -19,7 +19,7 @@ Some of the work can be found in my **_[github repo](https://github.com/samuelle
 ---
 ### Software Intern, [Golflex](http://www.golflex.co.kr/en.html)
 ---
-In summer of 2018, I worked as **software intern** to _maintain server side codebases_ and _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently and can be found in GOLFLEX [mobile app](https://play.google.com/store/apps/details?id=com.golflex.mobile&hl=en&gl=US)!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._ 
+In summer of 2018, I worked as **software intern** to _maintain server side codebases (in java)_ and _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently and can be found in GOLFLEX [mobile app](https://play.google.com/store/apps/details?id=com.golflex.mobile&hl=en&gl=US)!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._ 
 
 ---
 

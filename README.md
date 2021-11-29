@@ -1,9 +1,9 @@
 # Work Experience
 
 ---
-### AI Research Intern - Algorithmics, TU Delft
+### AI Software Research Intern - Algorithmics, TU Delft
 ---
-During summer of 2020, I worked as an **[AI research intern](http://homepage.tudelft.nl/0p6y8/team.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
+During summer of 2020, I worked as an **[AI software research intern](http://homepage.tudelft.nl/0p6y8/team.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
 
 We developed _Apprenticeship Learning approach to Vehicle Routing Problem (VRP) with realistic constraints._ Simulation was done with Google's open source [OR-Tool VRP library](https://developers.google.com/optimization/routing). 
 

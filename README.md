@@ -1,5 +1,11 @@
 # Work Experience
 
+
+---
+### Software Engineer - Pabit
+---
+I am currently working as one of the software engineers for Pabit - a startup using big data & AI technologies to provide language learning platform. 
+
 ---
 ### AI Software Research Intern - Algorithmics, TU Delft
 ---

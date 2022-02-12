@@ -1,5 +1,11 @@
 # Work Experience
 
+
+---
+### Software Engineer - Pabit, Los Angeles, USA
+---
+I am currently working as a SWE in Pabit, a startup based in Los Angeles. I am in the Engineering Team, currently working on the MVP & additional features. 
+
 ---
 ### AI Software Research Intern - Algorithmics, TU Delft
 ---

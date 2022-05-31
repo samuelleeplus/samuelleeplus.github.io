@@ -4,7 +4,7 @@
 ---
 ### Software Engineer - Pabit, Los Angeles, USA
 ---
-I am currently working as a SWE in Pabit, a startup based in Los Angeles. I am in the Engineering Team, currently working on the MVP & additional features. 
+I am currently working as a SWE in [Pabit](https://pabit.co/), a startup based in Los Angeles. We are currently working on our MVP & some of our current tech stacks consists of Laravel, mySQL & Redis.
 
 ---
 ### AI Software Research Intern - Algorithmics, TU Delft

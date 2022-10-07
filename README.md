@@ -3,7 +3,8 @@
 ---
 ### 2022 ~ Present - Full-Stack Engineer - Seoul, South Korea 
 ---
-I am currently working as a Full-Stack Engineer in [Motion2AI](https://www.motion2ai.com/), a company that provides intelligent solutions based on Artificial intelligence and SLAM for warehouse & manufacturing businesses.  
+I am currently working as a Full-Stack Engineer in [Motion2AI](https://www.motion2ai.com/), a company that provides intelligent solutions based on Artificial intelligence and SLAM for warehouse & manufacturing businesses. 
+
 ---
 ### 2021 - Software Engineer - Pabit, Los Angeles, USA
 ---

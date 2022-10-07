@@ -1,13 +1,16 @@
 # Work Experience
 
+---
+### 2022 ~ Present - Full-Stack Engineer - Seoul, South Korea 
+---
+I am currently working as a Full-Stack Engineer in [Motion2AI](https://www.motion2ai.com/), a company that provides intelligent solutions based on Artificial intelligence and SLAM for warehouse & manufacturing businesses.  
+---
+### 2021 - Software Engineer - Pabit, Los Angeles, USA
+---
+I worked as a SWE in [Pabit](https://pabit.co/), a startup based in Los Angeles. I was involved in creating the MVP, as well as the big data search engine and functionality. Some of the tech stack and languages used were Laravel, Javascript, Redis & MySQL. 
 
 ---
-### Software Engineer - Pabit, Los Angeles, USA
----
-I am currently working as a SWE in [Pabit](https://pabit.co/), a startup based in Los Angeles. We are currently working on our MVP & some of our current tech stacks consists of Laravel, mySQL & Redis.
-
----
-### AI Software Research Intern - Algorithmics, TU Delft
+### 2020 - AI Software Research Intern - Algorithmics, TU Delft
 ---
 During summer of 2020, I worked as an **[AI software research intern](http://homepage.tudelft.nl/0p6y8/team.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
 
@@ -16,14 +19,14 @@ We developed _Apprenticeship Learning approach to Vehicle Routing Problem (VRP) 
 **_Project details are on gitlab & can be sent on request._**
 
 ---
-### Undergraduate Researcher - Nanotech & Research Application
+### 2019 - Undergraduate Researcher - Nanotech & Research Application
 ---
 In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](http://myweb.sabanciuniv.edu/slucas/) to develop _computational strategies for assembly of heterozygous DNA sequence data_, using HPC Cluster, SSH, SLURM commands, R & Python. 
 
 Some of the work can be found in my **_[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._**
 
 ---
-### Software Engineer (Intern), [Golflex](http://www.golflex.co.kr/en.html)
+### 2018 - Software Engineer (Intern), [Golflex](http://www.golflex.co.kr/en.html)
 ---
 In summer of 2018, I worked as **software intern** to _maintain server side codebases (in java)_ and _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently and can be found in GOLFLEX [mobile app](https://play.google.com/store/apps/details?id=com.golflex.mobile&hl=en&gl=US)!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._ 
 

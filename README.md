@@ -1,33 +1,72 @@
 # Work Experience
 
 ---
-### Aug 2022 ~ Present - Full-Stack Engineer - Seoul, South Korea 
+## [Motion2AI](https://www.motion2ai.com/) | Full-Stack Engineer | South Korea
+### Aug 2022 ~ Present
 ---
 I am currently working as a Full-Stack Engineer in [Motion2AI](https://www.motion2ai.com/), a company that provides intelligent solutions based on Artificial intelligence and SLAM for warehouse & manufacturing businesses. 
 
+
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![image](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
+
+
 ---
-### Aug 2021 - Jul 2022 - Software Engineer - Pabit, Los Angeles, USA
+## [Pabit](https://pabit.co/) | Software Engineer | Los Angeles, USA (Remote)
+### Aug 2021 - Jul 2022
 ---
 I worked as a SWE in [Pabit](https://pabit.co/), a startup based in Los Angeles. I was involved in creating the MVP, as well as the big data search engine and functionality. Some of the tech stack and languages used were Laravel, Javascript, Redis & MySQL. 
 
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+)
+![image](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+
 ---
-### June 2020 - Aug 2020 - AI Software Research Intern - Algorithmics, TU Delft
+## [Star Labs](https://starlab.ewi.tudelft.nl/index.html) | AI Research Intern | Delft, Netherlands 
+### June 2020 - Aug 2020
 ---
-During summer of 2020, I worked as an **[AI software research intern](http://homepage.tudelft.nl/0p6y8/team.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
+During summer of 2020, I worked as an **[AI software research intern](https://starlab.ewi.tudelft.nl/people.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](https://starlab.ewi.tudelft.nl/yorke-smith/).
 
 We developed _Apprenticeship Learning approach to Vehicle Routing Problem (VRP) with realistic constraints._ Simulation was done with Google's open source [OR-Tool VRP library](https://developers.google.com/optimization/routing). 
 
 **_Project details are on gitlab & can be sent on request._**
 
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
 ---
-### 2019 - Undergraduate Researcher - Nanotech & Research Application
+## [Undergrad Researcher](https://sunum.sabanciuniv.edu/en) | SUNUM | Istanbul, Turkey
+### Sept 2019 ~ Jan 2020
 ---
-In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](http://myweb.sabanciuniv.edu/slucas/) to develop _computational strategies for assembly of heterozygous DNA sequence data_, using HPC Cluster, SSH, SLURM commands, R & Python. 
+In 2019, I worked as a **undergraduate researcher** with a team under the supervision of [Stuart James Lucas](https://sunum.sabanciuniv.edu/en/people/stuart-james-lucas) to develop _computational strategies for assembly of heterozygous DNA sequence data_, using HPC Cluster, SSH, SLURM commands, R & Python. 
 
 Some of the work can be found in my **_[github repo](https://github.com/samuelleeplus/researchApplication_PURE)._**
 
 ---
-### 2018 - Software Engineer (Intern), [Golflex](http://www.golflex.co.kr/en.html)
+## [Golflex](http://www.golflex.co.kr/en.html) | SWE Intern | Seoul, South Korea
+### June 2018 ~ Aug 2018
 ---
 In summer of 2018, I worked as **software intern** to _maintain server side codebases (in java)_ and _design E-Sports gaming environment and map_ using the company's game engine (**which is being used currently and can be found in GOLFLEX [mobile app](https://play.google.com/store/apps/details?id=com.golflex.mobile&hl=en&gl=US)!**). I also was part of the graphic design team to _create 2D objects using Adobe Photoshop, and render 3D objects using 3DS Max._ 
 
@@ -50,6 +89,13 @@ Some implementations/functionalities of the project includes:
 
 Further details can be found in this **_[github repo.](https://github.com/samuelleeplus/onlineStore)_**
 
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![](https://github.com/samuelleeplus/onlineStore/blob/30d26b2517f6619cb12c05a1d4064e0bf6d821aa/sample/sampleImage.jpg)
 
 ---
@@ -69,6 +115,13 @@ Basic functionalities of the application includes:
 This was a **full-stack project**, developed using RESTful Web Services using **[Spring Boot](https://spring.io/projects/spring-boot) framework.** For front-end development/GUI, Android Studio SDK & Emulator was used. 
 
 **_Further details can be found in my [github repo](https://github.com/samuelleeplus/androidApplication)._**
+
+
+![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 ![](https://github.com/samuelleeplus/androidApp/blob/a054749716e9952ee0632d76444c6404c9e6af94/pictures/recyclerView.png)

@@ -1,17 +1,17 @@
 # Work Experience
 
 ---
-### 2022 ~ Present - Full-Stack Engineer - Seoul, South Korea 
+### Aug 2022 ~ Present - Full-Stack Engineer - Seoul, South Korea 
 ---
 I am currently working as a Full-Stack Engineer in [Motion2AI](https://www.motion2ai.com/), a company that provides intelligent solutions based on Artificial intelligence and SLAM for warehouse & manufacturing businesses. 
 
 ---
-### 2021 - Software Engineer - Pabit, Los Angeles, USA
+### Aug 2021 - Jul 2022 - Software Engineer - Pabit, Los Angeles, USA
 ---
 I worked as a SWE in [Pabit](https://pabit.co/), a startup based in Los Angeles. I was involved in creating the MVP, as well as the big data search engine and functionality. Some of the tech stack and languages used were Laravel, Javascript, Redis & MySQL. 
 
 ---
-### 2020 - AI Software Research Intern - Algorithmics, TU Delft
+### June 2020 - Aug 2020 - AI Software Research Intern - Algorithmics, TU Delft
 ---
 During summer of 2020, I worked as an **[AI software research intern](http://homepage.tudelft.nl/0p6y8/team.html)** in the [Algorithmics Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of TU Delft, Netherlands, under the supervision of [Professor Neil Yorke-Smith](http://homepage.tudelft.nl/0p6y8/).
 
